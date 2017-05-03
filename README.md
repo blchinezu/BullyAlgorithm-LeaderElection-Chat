@@ -1,1 +1,1 @@
-x
+A GO implementation of the [Bully algorithm](https://en.wikipedia.org/wiki/Bully_algorithm) for [jhudson8](https://github.com/jhudson8)'s [chat example](https://github.com/jhudson8/golang-chat-example)
